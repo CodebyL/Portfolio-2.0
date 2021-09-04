@@ -226,24 +226,24 @@ main {
 }
 
 /* portfolio project images */
-.run-buddy {
-  background-image: url("../images/02-run-buddy.jpg");
+.portfolio-image {
+  background-image: url("../images/portfolio-image.JPG");
 }
 
-.led-wall {
-  background-image: url("../images/02-portfolio-1.jpg");
+.day-planner {
+  background-image: url("../images/Work\ Day\ Scheduler.JPG");
 }
 
-.react-calc {
-  background-image: url("../images/02-portfolio-2.jpg");
+.code-quiz {
+  background-image: url("../images/Code\ Quiz.JPG");
 }
 
-.pastel-puzzles {
-  background-image: url("../images/02-portfolio-3.jpg");
+.password-generator {
+  background-image: url("../images/password\ generator.JPG");
 }
 
-.surf-report {
-  background-image: url("../images/02-portfolio-4.jpg");
+.weather-dashboard {
+  background-image: url("../images/Weather\ Dashboard.JPG");
 }
 
 /* end portfolio project images */
